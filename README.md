@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthik060902
 - 👀 I’m interested in UI Design
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning React js Frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
